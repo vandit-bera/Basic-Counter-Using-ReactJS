@@ -17,7 +17,7 @@
 <h3 align="center">Basic Counter Using ReactJS</h3>
 
   <p align="center">   
-    <a href="">View Live Demo</a>
+    <a href="https://vb-basic-counter-react.vercel.app/">View Live Demo</a>
   </p>
 
   <img src="./ss/REACTJS.jpg" width="100%">
@@ -57,7 +57,7 @@ This project is presently deployed in **Vercel Service**.
 
 
 
-[Live Project URL]()
+[Live Project URL](https://vb-basic-counter-react.vercel.app/)
 <br>
 
 
