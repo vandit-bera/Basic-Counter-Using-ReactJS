@@ -29,7 +29,9 @@
 
 ## About The Project
 
-<!-- ![ss](./ss/1.png) -->
+![ss](./ss/increase.png)
+![ss](./ss/decrease.png)
+![ss](./ss/reset.png)
 
 
 
