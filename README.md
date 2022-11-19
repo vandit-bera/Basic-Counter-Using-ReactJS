@@ -75,6 +75,7 @@ In This project I learnt more about JavaScript and ReactJS.
 ## Time
 
 For this project I took around `15 to 20 minutes` to complete it.
+
 <br>
 
 
