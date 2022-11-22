@@ -81,7 +81,7 @@ For this project I took around `15 to 20 minutes` to complete it.
 
 <!-- CONTACT -->
 
-## Contact
+## 📞 Contact
 
 - **Name 👨‍💻:** [Vandit Bera](https://github.com/vandit-bera)
 - **Email 📧:** [vanditbera@gmail.com](mailto:vanditbera@gmail.com)
