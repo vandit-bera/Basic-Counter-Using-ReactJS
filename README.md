@@ -45,18 +45,14 @@ Here's a Screen-Shot of my project and I learnt Most of my usefull Future of Jav
 2. CSS
 3. ReactJS
 
-
 <br>
 
 ## Live Project
 
 This project is presently deployed in **Vercel Service**.
 
-
-
 [Live Project URL](https://vb-basic-counter-react.vercel.app/)
 <br>
-
 
 <!-- LEARNT -->
 <br>
@@ -74,7 +70,6 @@ In This project I learnt more about JavaScript and ReactJS.
 For this project I took around `15 to 20 minutes` to complete it.
 
 <br>
-
 
 <!-- CONTACT -->
 
@@ -106,7 +101,6 @@ Project Link: [GitHub](https://github.com/vandit-bera/Basic-Counter-Using-ReactJ
 
 [hashnode-shield]: https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white
 [hashnode-url]: https://vandit-bera.hashnode.dev/
-
 
 ---
 
