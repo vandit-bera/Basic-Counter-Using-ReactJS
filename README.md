@@ -62,7 +62,6 @@ In This project I learnt more about JavaScript and ReactJS.
 - JavaScript
 - ReactJS
 
-<!-- NOTE -->
 <br>
 
 ## Time
