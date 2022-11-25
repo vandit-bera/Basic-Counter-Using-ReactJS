@@ -33,9 +33,6 @@
 ![ss](./ss/decrease.png)
 ![ss](./ss/reset.png)
 
-
-
-
 Here's a Screen-Shot of my project and I learnt Most of my usefull Future of JavaScript and ReactJS.
 <br>
 <br>
